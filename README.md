@@ -1,5 +1,6 @@
 # To-Do-List
 This is a project of a To Do List using HTML,CSS, Bootstrap &amp; JS. 
+<br/>
 This project makes use of
 <ul>
   <li>Event Handlers</li>
